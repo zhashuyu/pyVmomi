@@ -56,7 +56,6 @@ def export_esxhost(WorkBook, sheetname):
 
 
 def main():
-
     # WorkBook = load_workbook(filename, data_only=True)
 
     sheetname = 'GuestOS'
