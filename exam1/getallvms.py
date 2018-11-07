@@ -172,7 +172,7 @@ def connect_vc(host, user, password):
 
 def main():
 
-    connect_vc("10.0.0.101", "root", "123456")
+    connect_vc("10.10.200.11", "root", "123456")
 
 
 # Start program
